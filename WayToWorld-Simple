@@ -1,9 +1,9 @@
+[custom]
 ; ==========================================================
 ; - 使用 GEOSITE / GEOIP 为主
 ; - 五个国家地区可选
 ; ==========================================================
 
-[custom]
 enable_rule_generator=true
 overwrite_original_rules=true
 
